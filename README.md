@@ -1,1 +1,1 @@
-# my_GTK3_file_explorer
+# GTK3_file_explorer
